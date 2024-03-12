@@ -1,0 +1,14 @@
+body{
+    width: 600px;
+    margin: auto;
+    font-family: sans-serif;
+}
+p{
+    line-height: 1.5em;
+}
+
+article + article{
+    margin-top: 50px;
+    border-top: 2px solid black;
+    padding-top: 30px;
+}
