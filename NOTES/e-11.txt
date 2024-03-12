@@ -1,0 +1,11 @@
+Helper functions
+
+* base_path(); for project build foler
+* resource_path(); for resource folder
+* app_path(); for app folder
+
+* throw new ModelNotFoundException()
+* array_map return new array.
+eg; $files = array_map(fn($file) => $file, $files);
+
+File::files(directory)->getContents();

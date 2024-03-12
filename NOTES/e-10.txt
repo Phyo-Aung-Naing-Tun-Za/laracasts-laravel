@@ -1,0 +1,2 @@
+** cache() -> data တွေကို database ကခနခနသွားမဆွဲဘဲ သက်မှတ်ထားတဲ့ အချိန်တစ်ခုထိ             ** သိမ်းထားပေးတာ။
+** cache()->remember('key', 'time', 'function')
